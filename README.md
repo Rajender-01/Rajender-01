@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rajender
+# Rajender kumar
 
 **Frontend Engineer** &nbsp;·&nbsp; HTML · CSS · JavaScript · TypeScript · React · Next.js · CMS
 
